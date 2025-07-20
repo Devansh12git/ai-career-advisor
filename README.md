@@ -22,12 +22,20 @@ It is built  for students and professionals seeking smart, AI-powered career dir
 
 ### 🏠 Menu Page  
 Dark-themed landing screen with two clear options.
+<img width="940" height="555" alt="image" src="https://github.com/user-attachments/assets/8a6f8052-844b-4935-9361-2f1bd8bbe18c" />
 
 ### 📄 Resume Upload  
 Upload a resume and get AI-generated job role suggestions.
+<img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/e3171c95-0fc8-4536-a145-c011ba517408" />
+<img width="940" height="649" alt="image" src="https://github.com/user-attachments/assets/71b74c05-e6b8-4773-8721-82335830380c" />
+<img width="940" height="917" alt="image" src="https://github.com/user-attachments/assets/7d068097-87f6-4161-81c1-681f445077a3" />
 
 ### 🛠️ Skill-Based Advice  
 Type a skill and receive AI-generated relevant career path guidance.
+
+<img width="940" height="716" alt="image" src="https://github.com/user-attachments/assets/774b6d3b-7d66-4b49-8875-b6d6dfdbfe4d" />
+<img width="940" height="896" alt="image" src="https://github.com/user-attachments/assets/2f21429b-8562-4069-9c1b-57d859e64fb2" />
+
 
 ---
 
@@ -37,7 +45,7 @@ Type a skill and receive AI-generated relevant career path guidance.
 |------------|--------------------------------------|
 | Frontend   | React, Tailwind CSS, React Router DOM |
 | Backend    | Express.js, Multer, pdfjs-dist       |
-| AI Model   | Cerebras LLM API                     |
+| AI Model   | AI APIs - Cerebras LLM API                     |
 | Deployment | Vercel (Frontend), Render (Backend)  |
 
 ---
