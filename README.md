@@ -1,6 +1,7 @@
 # 🤖 Smart AI Career Advisor
 
-An intelligent AI based career guidance assistant that allows users to either upload their resume or type a skill to get personalized career suggestions powered by the **Cerebras LLM AI API**. The application features a sleek dark-mode UI built with **React + TailwindCSS** and includes an ** Node Express.js backend with PDF parsing support **.
+An intelligent AI based career guidance assistant that allows users to either upload their resume or type a skill to get personalized career suggestions powered by the **AI APIs - Cerebras LLM AI API**. The application features a sleek dark-mode UI built with **React + TailwindCSS** and includes an ** **Node Express.js backend with PDF parsing support** **.
+
 It is built  for students and professionals seeking smart, AI-powered career direction.
 
 ---
